@@ -1,0 +1,13 @@
+.calculadora{
+    width: 300px;
+}
+
+.botones{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 20px;
+}
+
+.botones button{
+    padding: 15px 0;
+}
