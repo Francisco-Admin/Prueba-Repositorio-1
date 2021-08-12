@@ -1,5 +1,6 @@
 .calculadora{
     width: 300px;
+    background-color: turquoise;
 }
 
 .botones{
@@ -10,6 +11,7 @@
 
 .botones button{
     padding: 15px 0;
+    color: white;
 }
 
 img {
